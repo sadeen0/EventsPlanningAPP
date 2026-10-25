@@ -2,7 +2,7 @@
 
 # Some Pages
 
-<img width="100" height="600" alt="simulator_screenshot_B5A420A7-C1BE-4A45-81E8-2FD18FF45F20" src="https://github.com/user-attachments/assets/4ac67743-2198-4b01-83e7-b1a8cf9ff93a" />
+<img width="200" height="600" alt="simulator_screenshot_B5A420A7-C1BE-4A45-81E8-2FD18FF45F20" src="https://github.com/user-attachments/assets/4ac67743-2198-4b01-83e7-b1a8cf9ff93a" />
 
 <img width="300" height="800" alt="simulator_screenshot_D566EEEF-2F65-46A3-8C0A-6E1E012BE7F7" src="https://github.com/user-attachments/assets/a19d51a2-e3fe-4095-890a-495034eb9518" />
 
